@@ -1,10 +1,10 @@
 package com.epicgames.ue4;
 
-import com.YourCompany.GVR_VirtualHand.OBBDownloaderService;
-import com.YourCompany.GVR_VirtualHand.DownloaderActivity;
+import com.YourCompany.GVR_GrapplingHook.OBBDownloaderService;
+import com.YourCompany.GVR_GrapplingHook.DownloaderActivity;
 import android.app.Activity;
 import com.google.android.vending.expansion.downloader.Helpers;
-import com.YourCompany.GVR_VirtualHand.OBBData;
+import com.YourCompany.GVR_GrapplingHook.OBBData;
 
 
 public class DownloadShim

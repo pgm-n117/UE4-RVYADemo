@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.YourCompany.GVR_VirtualHand;
+package com.YourCompany.GVR_GrapplingHook;
 
 import com.google.android.vending.expansion.downloader.impl.DownloaderService;
 
@@ -61,6 +61,6 @@ public class OBBDownloaderService extends DownloaderService {
      */
     @Override
     public String getAlarmReceiverClassName() {
-        return com.YourCompany.GVR_VirtualHand.AlarmReceiver.class.getName();
+        return com.YourCompany.GVR_GrapplingHook.AlarmReceiver.class.getName();
     }
 }

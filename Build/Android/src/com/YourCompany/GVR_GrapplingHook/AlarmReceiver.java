@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.YourCompany.GVR_VirtualHand;
+package com.YourCompany.GVR_GrapplingHook;
 
 import com.google.android.vending.expansion.downloader.DownloaderClientMarshaller;
 

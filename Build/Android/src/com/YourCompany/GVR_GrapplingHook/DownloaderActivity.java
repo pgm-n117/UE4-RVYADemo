@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.YourCompany.GVR_VirtualHand;
+package com.YourCompany.GVR_GrapplingHook;
 
 import com.android.vending.expansion.zipfile.ZipResourceFile;
 import com.android.vending.expansion.zipfile.ZipResourceFile.ZipEntryRO;
