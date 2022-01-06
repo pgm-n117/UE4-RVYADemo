@@ -10,14 +10,14 @@
 "../../../Engine/Content/Animation/DefaultAnimBoneCompressionSettings.uexp" 9
 "../../../Engine/Content/Animation/DefaultAnimCurveCompressionSettings.uasset" 10
 "../../../Engine/Content/Animation/DefaultAnimCurveCompressionSettings.uexp" 11
-"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uasset" 12
-"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uexp" 13
-"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.ubulk" 14
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset" 15
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uexp" 16
-"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uasset" 17
-"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uexp" 18
-"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.ubulk" 19
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uasset" 12
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uexp" 13
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.ubulk" 14
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uasset" 15
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uexp" 16
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.ubulk" 17
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset" 18
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uexp" 19
 "../../../Engine/Content/EngineMaterials/WorldGridMaterial.uasset" 20
 "../../../Engine/Content/EngineMaterials/WorldGridMaterial.uexp" 21
 "../../../Engine/Content/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane.uasset" 22
@@ -286,10 +286,10 @@
 "../../../Engine/Content/MobileResources/T_MobileMenu2.uexp" 285
 "../../../Engine/Content/MobileResources/HUD/AnalogHat.uasset" 286
 "../../../Engine/Content/MobileResources/HUD/AnalogHat.uexp" 287
-"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset" 288
-"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uexp" 289
-"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset" 290
-"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uexp" 291
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset" 288
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uexp" 289
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset" 290
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uexp" 291
 "../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset" 292
 "../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uexp" 293
 "../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uasset" 294
@@ -546,18 +546,18 @@
 "C:/Users/pablo/Documents/Unreal Projects/GVR_GrapplingHook/Plugins/AugmentedUnreality/Content/Markers/AURFiducialPatternSpatialBP.uexp" 545
 "C:/Users/pablo/Documents/Unreal Projects/GVR_GrapplingHook/Plugins/AugmentedUnreality/Content/Markers/Pattern_Square_A.uasset" 546
 "C:/Users/pablo/Documents/Unreal Projects/GVR_GrapplingHook/Plugins/AugmentedUnreality/Content/Markers/Pattern_Square_A.uexp" 547
-"C:/Users/pablo/Documents/Unreal Projects/GVR_GrapplingHook/Plugins/AugmentedUnreality/Content/Blueprints/VideoSources/VideoCamera0.uasset" 548
-"C:/Users/pablo/Documents/Unreal Projects/GVR_GrapplingHook/Plugins/AugmentedUnreality/Content/Blueprints/VideoSources/VideoCamera0.uexp" 549
-"C:/Users/pablo/Documents/Unreal Projects/GVR_GrapplingHook/Plugins/AugmentedUnreality/Content/Blueprints/VideoSources/VideoAndroid.uasset" 550
-"C:/Users/pablo/Documents/Unreal Projects/GVR_GrapplingHook/Plugins/AugmentedUnreality/Content/Blueprints/VideoSources/VideoAndroid.uexp" 551
-"C:/Users/pablo/Documents/Unreal Projects/GVR_GrapplingHook/Plugins/AugmentedUnreality/Content/Blueprints/VideoSources/VideoTest.uasset" 552
-"C:/Users/pablo/Documents/Unreal Projects/GVR_GrapplingHook/Plugins/AugmentedUnreality/Content/Blueprints/VideoSources/VideoTest.uexp" 553
-"C:/Users/pablo/Documents/Unreal Projects/GVR_GrapplingHook/Plugins/AugmentedUnreality/Content/Blueprints/VideoSources/VideoFileExample2.uasset" 554
-"C:/Users/pablo/Documents/Unreal Projects/GVR_GrapplingHook/Plugins/AugmentedUnreality/Content/Blueprints/VideoSources/VideoFileExample2.uexp" 555
-"C:/Users/pablo/Documents/Unreal Projects/GVR_GrapplingHook/Plugins/AugmentedUnreality/Content/Blueprints/VideoSources/VideoFileExample.uasset" 556
-"C:/Users/pablo/Documents/Unreal Projects/GVR_GrapplingHook/Plugins/AugmentedUnreality/Content/Blueprints/VideoSources/VideoFileExample.uexp" 557
-"C:/Users/pablo/Documents/Unreal Projects/GVR_GrapplingHook/Plugins/AugmentedUnreality/Content/Blueprints/VideoSources/VideoCamera1.uasset" 558
-"C:/Users/pablo/Documents/Unreal Projects/GVR_GrapplingHook/Plugins/AugmentedUnreality/Content/Blueprints/VideoSources/VideoCamera1.uexp" 559
+"C:/Users/pablo/Documents/Unreal Projects/GVR_GrapplingHook/Plugins/AugmentedUnreality/Content/Blueprints/VideoSources/VideoTest.uasset" 548
+"C:/Users/pablo/Documents/Unreal Projects/GVR_GrapplingHook/Plugins/AugmentedUnreality/Content/Blueprints/VideoSources/VideoTest.uexp" 549
+"C:/Users/pablo/Documents/Unreal Projects/GVR_GrapplingHook/Plugins/AugmentedUnreality/Content/Blueprints/VideoSources/VideoFileExample2.uasset" 550
+"C:/Users/pablo/Documents/Unreal Projects/GVR_GrapplingHook/Plugins/AugmentedUnreality/Content/Blueprints/VideoSources/VideoFileExample2.uexp" 551
+"C:/Users/pablo/Documents/Unreal Projects/GVR_GrapplingHook/Plugins/AugmentedUnreality/Content/Blueprints/VideoSources/VideoFileExample.uasset" 552
+"C:/Users/pablo/Documents/Unreal Projects/GVR_GrapplingHook/Plugins/AugmentedUnreality/Content/Blueprints/VideoSources/VideoFileExample.uexp" 553
+"C:/Users/pablo/Documents/Unreal Projects/GVR_GrapplingHook/Plugins/AugmentedUnreality/Content/Blueprints/VideoSources/VideoCamera1.uasset" 554
+"C:/Users/pablo/Documents/Unreal Projects/GVR_GrapplingHook/Plugins/AugmentedUnreality/Content/Blueprints/VideoSources/VideoCamera1.uexp" 555
+"C:/Users/pablo/Documents/Unreal Projects/GVR_GrapplingHook/Plugins/AugmentedUnreality/Content/Blueprints/VideoSources/VideoCamera0.uasset" 556
+"C:/Users/pablo/Documents/Unreal Projects/GVR_GrapplingHook/Plugins/AugmentedUnreality/Content/Blueprints/VideoSources/VideoCamera0.uexp" 557
+"C:/Users/pablo/Documents/Unreal Projects/GVR_GrapplingHook/Plugins/AugmentedUnreality/Content/Blueprints/VideoSources/VideoAndroid.uasset" 558
+"C:/Users/pablo/Documents/Unreal Projects/GVR_GrapplingHook/Plugins/AugmentedUnreality/Content/Blueprints/VideoSources/VideoAndroid.uexp" 559
 "C:/Users/pablo/Documents/Unreal Projects/GVR_GrapplingHook/Plugins/AugmentedUnreality/Content/Blueprints/AURDriver_Default.uasset" 560
 "C:/Users/pablo/Documents/Unreal Projects/GVR_GrapplingHook/Plugins/AugmentedUnreality/Content/Blueprints/AURDriver_Default.uexp" 561
 "C:/Users/pablo/Documents/Unreal Projects/GVR_GrapplingHook/Plugins/AugmentedUnreality/Content/Meshes/MeshPlaneSingle100.uasset" 562
@@ -627,78 +627,84 @@
 "../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 626
 "../../../Engine/Content/EngineSky/T_Sky_Stars.uexp" 627
 "../../../Engine/Content/EngineSky/T_Sky_Stars.ubulk" 628
-"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 629
-"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uexp" 630
-"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.ubulk" 631
-"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 632
-"../../../Engine/Content/EngineSky/T_Sky_Blue.uexp" 633
-"../../../Engine/Content/EngineSky/T_Sky_Blue.ubulk" 634
+"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 629
+"../../../Engine/Content/EngineSky/T_Sky_Blue.uexp" 630
+"../../../Engine/Content/EngineSky/T_Sky_Blue.ubulk" 631
+"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 632
+"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uexp" 633
+"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.ubulk" 634
 "../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 635
 "../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uexp" 636
-"C:/Users/pablo/Documents/Unreal Projects/GVR_GrapplingHook/Content/EntryLevel_BuiltData.uasset" 637
-"C:/Users/pablo/Documents/Unreal Projects/GVR_GrapplingHook/Content/EntryLevel_BuiltData.uexp" 638
-"C:/Users/pablo/Documents/Unreal Projects/GVR_GrapplingHook/Content/EntryLevel_BuiltData.ubulk" 639
-"C:/Users/pablo/Documents/Unreal Projects/GVR_GrapplingHook/Content/Blueprints/BPi_CameraSettings.uasset" 640
-"C:/Users/pablo/Documents/Unreal Projects/GVR_GrapplingHook/Content/Blueprints/BPi_CameraSettings.uexp" 641
-"C:/Users/pablo/Documents/Unreal Projects/GVR_GrapplingHook/Content/Blueprints/BP_AURController.uasset" 642
-"C:/Users/pablo/Documents/Unreal Projects/GVR_GrapplingHook/Content/Blueprints/BP_AURController.uexp" 643
-"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 644
-"../../../Engine/Content/EngineSky/SM_SkySphere.uexp" 645
-"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset" 646
-"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uexp" 647
-"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" 648
-"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uexp" 649
-"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset" 650
-"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uexp" 651
-"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 652
-"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uexp" 653
-"C:/Users/pablo/Documents/Unreal Projects/GVR_GrapplingHook/Content/Blueprints/BP_AURCameraPawn.uasset" 654
-"C:/Users/pablo/Documents/Unreal Projects/GVR_GrapplingHook/Content/Blueprints/BP_AURCameraPawn.uexp" 655
-"C:/Users/pablo/Documents/Unreal Projects/GVR_GrapplingHook/Content/Blueprints/BP_HandFiducial2.uasset" 656
-"C:/Users/pablo/Documents/Unreal Projects/GVR_GrapplingHook/Content/Blueprints/BP_HandFiducial2.uexp" 657
-"C:/Users/pablo/Documents/Unreal Projects/GVR_GrapplingHook/Content/Blueprints/BP_HandFiducial1.uasset" 658
-"C:/Users/pablo/Documents/Unreal Projects/GVR_GrapplingHook/Content/Blueprints/BP_HandFiducial1.uexp" 659
-"../../../Engine/Content/BasicShapes/Plane.uasset" 660
-"../../../Engine/Content/BasicShapes/Plane.uexp" 661
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/VectorToRadialValue.uasset" 662
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/VectorToRadialValue.uexp" 663
-"C:/Users/pablo/Documents/Unreal Projects/GVR_GrapplingHook/Content/Blueprints/UIRing.uasset" 664
-"C:/Users/pablo/Documents/Unreal Projects/GVR_GrapplingHook/Content/Blueprints/UIRing.uexp" 665
-"../../../Engine/Content/BasicShapes/Cube.uasset" 666
-"../../../Engine/Content/BasicShapes/Cube.uexp" 667
-"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset" 668
-"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uexp" 669
-"C:/Users/pablo/Documents/Unreal Projects/GVR_GrapplingHook/Content/Blueprints/TraceInteractiveFuseButton.uasset" 670
-"C:/Users/pablo/Documents/Unreal Projects/GVR_GrapplingHook/Content/Blueprints/TraceInteractiveFuseButton.uexp" 671
-"C:/Users/pablo/Documents/Unreal Projects/GVR_GrapplingHook/Content/Blueprints/TraceInteractiveCube.uasset" 672
-"C:/Users/pablo/Documents/Unreal Projects/GVR_GrapplingHook/Content/Blueprints/TraceInteractiveCube.uexp" 673
-"C:/Users/pablo/Documents/Unreal Projects/GVR_GrapplingHook/Content/Extras/Axis/zMaterial.uasset" 674
-"C:/Users/pablo/Documents/Unreal Projects/GVR_GrapplingHook/Content/Extras/Axis/zMaterial.uexp" 675
-"C:/Users/pablo/Documents/Unreal Projects/GVR_GrapplingHook/Content/Extras/Axis/yMaterial.uasset" 676
-"C:/Users/pablo/Documents/Unreal Projects/GVR_GrapplingHook/Content/Extras/Axis/yMaterial.uexp" 677
-"C:/Users/pablo/Documents/Unreal Projects/GVR_GrapplingHook/Content/Extras/Axis/XMaterial.uasset" 678
-"C:/Users/pablo/Documents/Unreal Projects/GVR_GrapplingHook/Content/Extras/Axis/XMaterial.uexp" 679
-"C:/Users/pablo/Documents/Unreal Projects/GVR_GrapplingHook/Content/Extras/Axis/BP_Axis.uasset" 680
-"C:/Users/pablo/Documents/Unreal Projects/GVR_GrapplingHook/Content/Extras/Axis/BP_Axis.uexp" 681
-"C:/Users/pablo/Documents/Unreal Projects/GVR_GrapplingHook/Content/BP_Tracker.uasset" 682
-"C:/Users/pablo/Documents/Unreal Projects/GVR_GrapplingHook/Content/BP_Tracker.uexp" 683
-"C:/Users/pablo/Documents/Unreal Projects/GVR_GrapplingHook/Content/Extras/Hands/M_Hand.uasset" 684
-"C:/Users/pablo/Documents/Unreal Projects/GVR_GrapplingHook/Content/Extras/Hands/M_Hand.uexp" 685
-"C:/Users/pablo/Documents/Unreal Projects/GVR_GrapplingHook/Content/Extras/Hands/Hand_PhysicsAsset.uasset" 686
-"C:/Users/pablo/Documents/Unreal Projects/GVR_GrapplingHook/Content/Extras/Hands/Hand_PhysicsAsset.uexp" 687
-"C:/Users/pablo/Documents/Unreal Projects/GVR_GrapplingHook/Content/Extras/Hands/Hand_Skeleton.uasset" 688
-"C:/Users/pablo/Documents/Unreal Projects/GVR_GrapplingHook/Content/Extras/Hands/Hand_Skeleton.uexp" 689
-"C:/Users/pablo/Documents/Unreal Projects/GVR_GrapplingHook/Content/Extras/Hands/SK_Hand.uasset" 690
-"C:/Users/pablo/Documents/Unreal Projects/GVR_GrapplingHook/Content/Extras/Hands/SK_Hand.uexp" 691
-"C:/Users/pablo/Documents/Unreal Projects/GVR_GrapplingHook/Content/Extras/Hands/Hand_Anim.uasset" 692
-"C:/Users/pablo/Documents/Unreal Projects/GVR_GrapplingHook/Content/Extras/Hands/Hand_Anim.uexp" 693
-"C:/Users/pablo/Documents/Unreal Projects/GVR_GrapplingHook/Content/Extras/Hands/Hand_AnimBP.uasset" 694
-"C:/Users/pablo/Documents/Unreal Projects/GVR_GrapplingHook/Content/Extras/Hands/Hand_AnimBP.uexp" 695
-"C:/Users/pablo/Documents/Unreal Projects/GVR_GrapplingHook/Content/BP_Hand.uasset" 696
-"C:/Users/pablo/Documents/Unreal Projects/GVR_GrapplingHook/Content/BP_Hand.uexp" 697
-"C:/Users/pablo/Documents/Unreal Projects/GVR_GrapplingHook/Content/EntryLevel.uexp" 698
-"C:/Users/pablo/Documents/Unreal Projects/GVR_GrapplingHook/Content/EntryLevel.umap" 699
-"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 700
-"../../../Engine/Content/Maps/Entry_BuiltData.uexp" 701
-"../../../Engine/Content/Maps/Entry.uexp" 702
-"../../../Engine/Content/Maps/Entry.umap" 703
+"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 637
+"../../../Engine/Content/EngineSky/SM_SkySphere.uexp" 638
+"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset" 639
+"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uexp" 640
+"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" 641
+"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uexp" 642
+"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset" 643
+"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uexp" 644
+"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 645
+"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uexp" 646
+"C:/Users/pablo/Documents/Unreal Projects/GVR_GrapplingHook/Content/Extras/Hands/M_Hand.uasset" 647
+"C:/Users/pablo/Documents/Unreal Projects/GVR_GrapplingHook/Content/Extras/Hands/M_Hand.uexp" 648
+"C:/Users/pablo/Documents/Unreal Projects/GVR_GrapplingHook/Content/Extras/Hands/Hand_PhysicsAsset.uasset" 649
+"C:/Users/pablo/Documents/Unreal Projects/GVR_GrapplingHook/Content/Extras/Hands/Hand_PhysicsAsset.uexp" 650
+"C:/Users/pablo/Documents/Unreal Projects/GVR_GrapplingHook/Content/Extras/Hands/Hand_Skeleton.uasset" 651
+"C:/Users/pablo/Documents/Unreal Projects/GVR_GrapplingHook/Content/Extras/Hands/Hand_Skeleton.uexp" 652
+"C:/Users/pablo/Documents/Unreal Projects/GVR_GrapplingHook/Content/Extras/Hands/SK_Hand.uasset" 653
+"C:/Users/pablo/Documents/Unreal Projects/GVR_GrapplingHook/Content/Extras/Hands/SK_Hand.uexp" 654
+"../../../Engine/Content/BasicShapes/Cube.uasset" 655
+"../../../Engine/Content/BasicShapes/Cube.uexp" 656
+"C:/Users/pablo/Documents/Unreal Projects/GVR_GrapplingHook/Content/Extras/Hands/Hand_Anim.uasset" 657
+"C:/Users/pablo/Documents/Unreal Projects/GVR_GrapplingHook/Content/Extras/Hands/Hand_Anim.uexp" 658
+"C:/Users/pablo/Documents/Unreal Projects/GVR_GrapplingHook/Content/Extras/Hands/Hand_AnimBP.uasset" 659
+"C:/Users/pablo/Documents/Unreal Projects/GVR_GrapplingHook/Content/Extras/Hands/Hand_AnimBP.uexp" 660
+"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset" 661
+"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uexp" 662
+"C:/Users/pablo/Documents/Unreal Projects/GVR_GrapplingHook/Content/BP_Hand_Izq.uasset" 663
+"C:/Users/pablo/Documents/Unreal Projects/GVR_GrapplingHook/Content/BP_Hand_Izq.uexp" 664
+"../../../Engine/Content/BasicShapes/Plane.uasset" 665
+"../../../Engine/Content/BasicShapes/Plane.uexp" 666
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/VectorToRadialValue.uasset" 667
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/VectorToRadialValue.uexp" 668
+"C:/Users/pablo/Documents/Unreal Projects/GVR_GrapplingHook/Content/Blueprints/UIRing.uasset" 669
+"C:/Users/pablo/Documents/Unreal Projects/GVR_GrapplingHook/Content/Blueprints/UIRing.uexp" 670
+"C:/Users/pablo/Documents/Unreal Projects/GVR_GrapplingHook/Content/Blueprints/TraceInteractiveFuseButton.uasset" 671
+"C:/Users/pablo/Documents/Unreal Projects/GVR_GrapplingHook/Content/Blueprints/TraceInteractiveFuseButton.uexp" 672
+"C:/Users/pablo/Documents/Unreal Projects/GVR_GrapplingHook/Content/Blueprints/TraceInteractiveCube.uasset" 673
+"C:/Users/pablo/Documents/Unreal Projects/GVR_GrapplingHook/Content/Blueprints/TraceInteractiveCube.uexp" 674
+"C:/Users/pablo/Documents/Unreal Projects/GVR_GrapplingHook/Content/Blueprints/BP_HandFiducial4.uasset" 675
+"C:/Users/pablo/Documents/Unreal Projects/GVR_GrapplingHook/Content/Blueprints/BP_HandFiducial4.uexp" 676
+"C:/Users/pablo/Documents/Unreal Projects/GVR_GrapplingHook/Content/Blueprints/BP_HandFiducial3.uasset" 677
+"C:/Users/pablo/Documents/Unreal Projects/GVR_GrapplingHook/Content/Blueprints/BP_HandFiducial3.uexp" 678
+"C:/Users/pablo/Documents/Unreal Projects/GVR_GrapplingHook/Content/Blueprints/BP_HandFiducial2.uasset" 679
+"C:/Users/pablo/Documents/Unreal Projects/GVR_GrapplingHook/Content/Blueprints/BP_HandFiducial2.uexp" 680
+"C:/Users/pablo/Documents/Unreal Projects/GVR_GrapplingHook/Content/Blueprints/BP_HandFiducial1.uasset" 681
+"C:/Users/pablo/Documents/Unreal Projects/GVR_GrapplingHook/Content/Blueprints/BP_HandFiducial1.uexp" 682
+"C:/Users/pablo/Documents/Unreal Projects/GVR_GrapplingHook/Content/Blueprints/BPi_CameraSettings.uasset" 683
+"C:/Users/pablo/Documents/Unreal Projects/GVR_GrapplingHook/Content/Blueprints/BPi_CameraSettings.uexp" 684
+"C:/Users/pablo/Documents/Unreal Projects/GVR_GrapplingHook/Content/Blueprints/BP_AURController.uasset" 685
+"C:/Users/pablo/Documents/Unreal Projects/GVR_GrapplingHook/Content/Blueprints/BP_AURController.uexp" 686
+"C:/Users/pablo/Documents/Unreal Projects/GVR_GrapplingHook/Content/Blueprints/BP_AURCameraPawn.uasset" 687
+"C:/Users/pablo/Documents/Unreal Projects/GVR_GrapplingHook/Content/Blueprints/BP_AURCameraPawn.uexp" 688
+"C:/Users/pablo/Documents/Unreal Projects/GVR_GrapplingHook/Content/EntryLevel_BuiltData.uasset" 689
+"C:/Users/pablo/Documents/Unreal Projects/GVR_GrapplingHook/Content/EntryLevel_BuiltData.uexp" 690
+"C:/Users/pablo/Documents/Unreal Projects/GVR_GrapplingHook/Content/EntryLevel_BuiltData.ubulk" 691
+"C:/Users/pablo/Documents/Unreal Projects/GVR_GrapplingHook/Content/Extras/Axis/zMaterial.uasset" 692
+"C:/Users/pablo/Documents/Unreal Projects/GVR_GrapplingHook/Content/Extras/Axis/zMaterial.uexp" 693
+"C:/Users/pablo/Documents/Unreal Projects/GVR_GrapplingHook/Content/Extras/Axis/yMaterial.uasset" 694
+"C:/Users/pablo/Documents/Unreal Projects/GVR_GrapplingHook/Content/Extras/Axis/yMaterial.uexp" 695
+"C:/Users/pablo/Documents/Unreal Projects/GVR_GrapplingHook/Content/Extras/Axis/XMaterial.uasset" 696
+"C:/Users/pablo/Documents/Unreal Projects/GVR_GrapplingHook/Content/Extras/Axis/XMaterial.uexp" 697
+"C:/Users/pablo/Documents/Unreal Projects/GVR_GrapplingHook/Content/Extras/Axis/BP_Axis.uasset" 698
+"C:/Users/pablo/Documents/Unreal Projects/GVR_GrapplingHook/Content/Extras/Axis/BP_Axis.uexp" 699
+"C:/Users/pablo/Documents/Unreal Projects/GVR_GrapplingHook/Content/BP_Tracker.uasset" 700
+"C:/Users/pablo/Documents/Unreal Projects/GVR_GrapplingHook/Content/BP_Tracker.uexp" 701
+"C:/Users/pablo/Documents/Unreal Projects/GVR_GrapplingHook/Content/BP_Hand.uasset" 702
+"C:/Users/pablo/Documents/Unreal Projects/GVR_GrapplingHook/Content/BP_Hand.uexp" 703
+"C:/Users/pablo/Documents/Unreal Projects/GVR_GrapplingHook/Content/EntryLevel.uexp" 704
+"C:/Users/pablo/Documents/Unreal Projects/GVR_GrapplingHook/Content/EntryLevel.umap" 705
+"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 706
+"../../../Engine/Content/Maps/Entry_BuiltData.uexp" 707
+"../../../Engine/Content/Maps/Entry.uexp" 708
+"../../../Engine/Content/Maps/Entry.umap" 709
