@@ -158,14 +158,17 @@ public boolean AUR_CameraStartCapture(int suggested_width, int suggested_height)
 	// - Disable autofocus, because we assume a constant focal length
 		List &lt; String &gt; focus_modes = camera_params.getSupportedFocusModes();
 		
-		if (focus_modes.contains(Parameters.FOCUS_MODE_INFINITY))
+		/*if (focus_modes.contains(Parameters.FOCUS_MODE_INFINITY))
 		{
 			camera_params.setFocusMode(Parameters.FOCUS_MODE_INFINITY);
 		}
 		else if(focus_modes.contains(Parameters.FOCUS_MODE_FIXED))
 		{
 			camera_params.setFocusMode(Parameters.FOCUS_MODE_FIXED);
-		} 
+		} */
+
+		//-FOR ACTUAL DEVICES - MODIFIED
+		camera_params.setFocusMode(Parameters.FOCUS_MODE_CONTINUOUS_VIDEO); //ADDED LINE
 	// -------
 
 	// - Requested resolution
